@@ -17,7 +17,7 @@ A simple JavaScript utility that masks the username portion of an email address 
 
 ```javascript
 maskEmail("apple.pie@example.com"); // Output: "a*******e@example.com"
-maskEmail("freecodecamp@example.com"); // Output: "f**********p@example.com"
+maskEmail("costatendai@example.com"); // Output: "c**********i@example.com"
 ```
 
 ---
