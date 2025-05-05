@@ -52,7 +52,7 @@ function maskEmail(email) {
 
 // Example
 const email = "constantinegumunyu25@gmail.com";
-console.log(maskEmail(email)); // f**********p@example.com
+console.log(maskEmail(email)); // c**********25@example.com
 ```
 
 ---
